@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<project default="usage" basedir="../">
+
+	<property name="project.build" location="${basedir}/build"/>
+
+	<target name="init">
+		<echo message="Running build from ${project.build} as ${user.name}"/>
+	</target>
+
+	<target name="usage" depends="init">
+		<echo message="Instructions for using this build. Actually, it's probably self-explanitory."/>
+	</target>
+
+</project>
