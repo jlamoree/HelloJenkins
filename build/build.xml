@@ -12,4 +12,8 @@
 		<echo message="Instructions for using this build. Actually, it's probably self-explanitory."/>
 	</target>
 
+	<target name="test">
+		<echo message="Everything's shiny, Capt'n."/>
+	</target>
+
 </project>
