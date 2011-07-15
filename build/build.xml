@@ -13,7 +13,7 @@
 	</target>
 
 	<target name="test">
-		<fail/>
+		<echo message="Oh please, Mr. Norris. Don't hurt me."/>
 	</target>
 
 </project>
