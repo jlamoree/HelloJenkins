@@ -11,6 +11,7 @@
 <body>
 	<div id="content">
 		<img src="images/jenkins.png"/>
+		<p>Something awesome coming.</p>
 	</div>
 </body>
 </html>
